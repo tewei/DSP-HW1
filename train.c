@@ -18,29 +18,11 @@ double ggmma[MAX_SAMPLES][MAX_SEQ][MAX_STATE];
 int sample_seq[MAX_SAMPLES][MAX_SEQ];
 int sample_seq_len[MAX_SAMPLES];
 
-int iter = 0; // Number of Training Iterations
-int N; //Number of States
-
-void printHMM(HMM *hmm){
-    for(int i = 0; i < N; ++i){
-        for(int j = 0; j < N; ++j){
-            printf("a%d%d %.4f ", i, j, hmm->a[i][j]);
-        }
-        printf("\n");
-    }
-}
-void print_sample(int s){
-    for(int i = 0; i < sample_seq_len[s]; ++i){
-        printf("%d ", sample_seq[s][i]);
-    }
-    printf("\n");
-}
-
 void trainHMM(HMM *hmm, int iter, FILE *file){
 
     int num_samples = 0;
     int num_symbols = hmm->observ_num; // Number of Observed Symbols
-    N = hmm->state_num; // Number of States
+    int N = hmm->state_num; // Number of States
 
 
     //Process Raw Data
@@ -75,7 +57,6 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
                 alpha[s][0][i] = hmm->pi[i] * hmm->b[ot][i];
             }
             //alpha[s][t][j]
-
             for(t = 0; t < T-1; ++t){
                 int ot = sample_seq[s][t+1];
                 for(j = 0; j < N; ++j){
@@ -96,7 +77,7 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
             }
             //beta[s][t][j]
             for(t = T-2; t >= 0; --t){
-                int ot = sample_seq[s][t];
+                int ot = sample_seq[s][t+1];
                 for(i = 0; i < N; ++i){
                     double sum_aij_bj_ot = 0;
                     for(j = 0; j < N; ++j){
@@ -107,9 +88,8 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
             }
 
             //Calculate epsilon
-
-            for(t = 0; t < T; ++t){
-                int ot = sample_seq[s][t];
+            for(t = 0; t < T-1; ++t){
+                int ot = sample_seq[s][t+1];
                 double prob_observ_seq = 0;
                 for(i = 0; i < N; ++i){
                     for(j = 0; j < N; ++j){
@@ -127,7 +107,7 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
                 }
             }
             //Calculate gamma
-            for(t = 0; t < T; ++t){
+            for(t = 0; t < T-1; ++t){
                 double prob_observ_seq = 0;
                 for(j = 0; j < N; ++j){
                     prob_observ_seq += alpha[s][t][j] * beta[s][t][j];
@@ -140,7 +120,6 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
         }
         
         //Update Pi
-        
         for(i = 0; i < N; ++i){
             double avg_pi = 0;
             for(s = 0; s < num_samples; ++s){
@@ -191,12 +170,10 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
                 hmm->b[k][j] = avg_bjk;
             }
         }
-        printHMM(hmm);
         printf("Training iteration %d completed!\n", epoch+1);
 
     }
 }
-
 
 int main(int argc, char *argv[]){
     
@@ -207,7 +184,7 @@ int main(int argc, char *argv[]){
         perror("Too many arguments, expected 4");
     }
     
-    iter = atoi(argv[1]);
+    int iter = atoi(argv[1]);
     
     //Open Files
     FILE *training_data_file = open_or_die(argv[3], "r");
