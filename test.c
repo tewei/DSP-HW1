@@ -139,10 +139,11 @@ int main(int argc, char *argv[]){
     fclose(testing_result_file);
     
     //Accuracy
+    /*
     FILE *ground_truth_file = open_or_die("testing_answer.txt", "r");
     testing_result_file = open_or_die(argv[3], "r");
     double testing_accuracy = accuracy(testing_result_file, ground_truth_file);
     printf("Testing complete, accuracy = %f", testing_accuracy);
-    
+    */
     return 0;
 }

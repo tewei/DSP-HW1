@@ -107,7 +107,7 @@ void trainHMM(HMM *hmm, int iter, FILE *file){
                 }
             }
             //Calculate gamma
-            for(t = 0; t < T-1; ++t){
+            for(t = 0; t < T; ++t){
                 double prob_observ_seq = 0;
                 for(j = 0; j < N; ++j){
                     prob_observ_seq += alpha[s][t][j] * beta[s][t][j];

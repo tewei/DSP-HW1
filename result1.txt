@@ -1,2500 +1,2500 @@
-model_01.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_04.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_02.txt
-model_03.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_01.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_02.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_02.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_02.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_03.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_01.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_02.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_05.txt
-model_05.txt
-model_02.txt
-model_04.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_02.txt
-model_02.txt
-model_05.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_01.txt
-model_04.txt
-model_03.txt
-model_04.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_05.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_03.txt
-model_02.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_05.txt
-model_05.txt
-model_03.txt
-model_04.txt
-model_01.txt
-model_04.txt
-model_04.txt
-model_04.txt
-model_03.txt
-model_05.txt
-model_03.txt
-model_03.txt
-model_01.txt
-model_01.txt
-model_05.txt
-model_02.txt
-model_02.txt
-model_04.txt
-model_03.txt
-model_03.txt
-model_05.txt
-model_01.txt
-model_02.txt
-model_05.txt
+model_01.txt 5.679418e-35
+model_05.txt 3.359809e-40
+model_01.txt 1.056955e-33
+model_02.txt 2.916304e-39
+model_02.txt 2.490285e-42
+model_04.txt 1.340915e-40
+model_03.txt 1.094675e-36
+model_05.txt 2.110380e-41
+model_04.txt 1.440402e-41
+model_01.txt 8.530345e-32
+model_05.txt 1.528726e-40
+model_01.txt 1.485624e-32
+model_04.txt 9.299324e-40
+model_03.txt 1.255184e-36
+model_03.txt 1.230726e-33
+model_01.txt 3.540830e-34
+model_05.txt 6.712453e-38
+model_04.txt 2.509496e-39
+model_03.txt 7.618367e-35
+model_03.txt 8.068168e-40
+model_05.txt 3.887883e-41
+model_02.txt 1.489657e-44
+model_04.txt 1.351541e-43
+model_04.txt 2.865499e-40
+model_01.txt 2.314527e-35
+model_05.txt 1.040493e-39
+model_04.txt 2.548489e-42
+model_03.txt 1.852518e-37
+model_04.txt 9.084415e-44
+model_04.txt 7.891506e-42
+model_05.txt 5.484290e-42
+model_01.txt 1.051765e-32
+model_05.txt 1.559791e-40
+model_04.txt 4.263823e-40
+model_03.txt 4.228917e-34
+model_02.txt 2.579349e-39
+model_01.txt 1.075062e-37
+model_04.txt 3.777136e-41
+model_02.txt 3.625591e-41
+model_05.txt 3.257644e-40
+model_02.txt 3.838032e-40
+model_03.txt 2.102229e-37
+model_05.txt 1.069012e-39
+model_01.txt 2.126665e-34
+model_04.txt 1.483725e-39
+model_05.txt 1.370458e-43
+model_01.txt 1.376008e-31
+model_03.txt 7.126268e-38
+model_05.txt 4.084425e-42
+model_03.txt 6.731544e-37
+model_04.txt 1.858098e-41
+model_05.txt 5.222796e-41
+model_04.txt 7.942763e-41
+model_03.txt 9.810316e-36
+model_04.txt 3.798559e-41
+model_02.txt 1.142812e-41
+model_03.txt 5.654648e-33
+model_05.txt 1.069665e-41
+model_01.txt 4.729559e-34
+model_01.txt 4.934705e-37
+model_01.txt 1.552454e-32
+model_05.txt 6.799035e-41
+model_05.txt 7.355980e-37
+model_01.txt 3.705396e-33
+model_04.txt 4.044873e-40
+model_01.txt 6.576235e-38
+model_02.txt 6.443393e-43
+model_02.txt 7.018101e-40
+model_02.txt 2.429505e-37
+model_03.txt 5.131681e-36
+model_05.txt 6.708345e-41
+model_04.txt 1.834993e-43
+model_04.txt 8.507105e-41
+model_05.txt 1.684809e-42
+model_05.txt 3.357065e-38
+model_01.txt 3.227703e-39
+model_04.txt 8.528602e-43
+model_02.txt 6.380843e-39
+model_02.txt 1.307112e-40
+model_04.txt 5.087736e-41
+model_01.txt 2.561141e-37
+model_05.txt 7.986269e-45
+model_02.txt 1.266548e-41
+model_03.txt 5.852899e-40
+model_04.txt 1.526781e-39
+model_01.txt 7.354185e-38
+model_03.txt 3.224191e-36
+model_01.txt 1.609147e-32
+model_04.txt 1.025852e-39
+model_04.txt 1.216345e-40
+model_02.txt 4.444100e-39
+model_03.txt 9.188510e-32
+model_03.txt 1.992632e-33
+model_03.txt 2.805579e-35
+model_03.txt 4.827012e-40
+model_02.txt 8.104364e-40
+model_05.txt 3.430189e-42
+model_02.txt 6.926829e-42
+model_03.txt 4.608714e-38
+model_01.txt 2.038519e-33
+model_03.txt 1.602704e-34
+model_02.txt 7.148457e-40
+model_02.txt 2.045989e-41
+model_01.txt 1.595133e-34
+model_05.txt 2.058455e-41
+model_05.txt 6.784130e-40
+model_02.txt 8.127343e-43
+model_02.txt 7.547880e-40
+model_05.txt 2.274981e-41
+model_04.txt 3.296961e-39
+model_02.txt 2.001137e-41
+model_02.txt 4.621326e-42
+model_05.txt 3.731335e-44
+model_03.txt 3.828778e-36
+model_02.txt 4.151733e-38
+model_03.txt 4.730747e-40
+model_02.txt 4.745700e-40
+model_02.txt 2.685871e-42
+model_04.txt 7.873064e-40
+model_03.txt 5.167423e-37
+model_02.txt 1.921216e-39
+model_01.txt 3.734772e-35
+model_01.txt 1.542208e-36
+model_05.txt 1.022057e-39
+model_01.txt 7.508858e-34
+model_04.txt 9.026651e-43
+model_03.txt 1.538727e-35
+model_04.txt 2.622544e-43
+model_04.txt 8.575475e-40
+model_02.txt 1.237697e-41
+model_03.txt 2.123485e-35
+model_02.txt 2.302137e-39
+model_04.txt 4.469721e-40
+model_05.txt 2.511128e-40
+model_04.txt 2.287237e-43
+model_01.txt 3.996822e-36
+model_04.txt 7.236253e-39
+model_05.txt 2.070148e-40
+model_02.txt 2.085374e-40
+model_01.txt 3.908136e-35
+model_04.txt 5.020369e-38
+model_05.txt 2.866376e-39
+model_02.txt 6.139189e-45
+model_03.txt 9.103922e-35
+model_02.txt 1.157445e-40
+model_02.txt 1.406091e-39
+model_01.txt 2.578169e-38
+model_04.txt 2.900198e-39
+model_01.txt 7.622011e-36
+model_03.txt 5.609411e-36
+model_05.txt 2.286693e-39
+model_03.txt 6.026809e-36
+model_05.txt 7.267249e-39
+model_01.txt 1.667112e-32
+model_02.txt 8.865752e-41
+model_04.txt 1.432539e-39
+model_05.txt 1.530728e-43
+model_03.txt 4.259192e-34
+model_04.txt 1.077123e-40
+model_05.txt 1.163316e-41
+model_02.txt 9.055296e-41
+model_03.txt 3.304162e-40
+model_02.txt 5.723418e-42
+model_02.txt 1.041353e-39
+model_01.txt 2.482944e-36
+model_04.txt 9.098557e-39
+model_02.txt 6.706474e-43
+model_02.txt 1.076825e-41
+model_01.txt 1.190113e-32
+model_04.txt 4.916763e-42
+model_02.txt 1.832512e-41
+model_02.txt 1.559953e-39
+model_02.txt 3.317261e-40
+model_02.txt 8.197386e-42
+model_03.txt 3.099090e-33
+model_04.txt 2.608705e-42
+model_04.txt 8.481424e-41
+model_05.txt 6.241904e-41
+model_02.txt 3.961911e-40
+model_03.txt 1.315097e-34
+model_01.txt 1.235823e-35
+model_04.txt 1.208923e-38
+model_04.txt 1.645772e-38
+model_05.txt 1.642540e-41
+model_01.txt 4.554907e-33
+model_04.txt 3.449695e-43
+model_01.txt 1.831753e-35
+model_05.txt 6.534423e-41
+model_05.txt 3.715190e-38
+model_04.txt 1.215548e-39
+model_01.txt 1.104691e-33
+model_05.txt 4.731284e-41
+model_01.txt 1.303944e-33
+model_03.txt 1.002667e-34
+model_04.txt 3.692844e-42
+model_03.txt 1.840825e-40
+model_02.txt 5.378315e-39
+model_05.txt 1.540442e-42
+model_02.txt 3.044284e-42
+model_04.txt 9.789021e-40
+model_02.txt 5.387341e-40
+model_05.txt 5.559325e-42
+model_01.txt 5.957705e-31
+model_04.txt 8.023223e-38
+model_03.txt 5.099743e-34
+model_04.txt 5.657503e-39
+model_01.txt 7.735119e-37
+model_05.txt 1.480243e-41
+model_03.txt 3.804765e-36
+model_03.txt 3.439373e-35
+model_02.txt 3.348537e-38
+model_02.txt 4.740723e-40
+model_01.txt 7.018527e-32
+model_04.txt 1.689518e-40
+model_01.txt 1.993927e-31
+model_02.txt 1.781222e-40
+model_03.txt 6.583815e-41
+model_02.txt 3.000068e-40
+model_02.txt 4.473538e-38
+model_03.txt 7.670873e-37
+model_03.txt 4.189157e-34
+model_03.txt 4.075236e-39
+model_04.txt 8.050102e-41
+model_05.txt 5.598844e-40
+model_05.txt 1.058095e-39
+model_03.txt 7.520352e-37
+model_01.txt 2.766005e-32
+model_02.txt 1.263144e-38
+model_01.txt 1.573828e-30
+model_01.txt 2.361194e-30
+model_01.txt 3.989898e-33
+model_04.txt 1.655442e-42
+model_03.txt 2.129119e-36
+model_03.txt 1.387448e-34
+model_04.txt 5.077712e-42
+model_03.txt 3.343563e-39
+model_02.txt 3.758527e-40
+model_05.txt 1.214349e-41
+model_03.txt 4.801793e-36
+model_03.txt 3.527066e-35
+model_01.txt 8.234093e-32
+model_03.txt 1.018909e-33
+model_03.txt 5.043475e-39
+model_01.txt 2.144043e-33
+model_05.txt 8.130506e-43
+model_04.txt 5.853928e-41
+model_03.txt 2.637322e-36
+model_02.txt 3.812675e-41
+model_03.txt 6.570468e-35
+model_04.txt 4.027580e-41
+model_03.txt 5.583718e-33
+model_03.txt 4.992678e-37
+model_01.txt 3.958332e-30
+model_02.txt 3.478023e-39
+model_02.txt 1.633454e-40
+model_04.txt 5.985379e-43
+model_04.txt 4.555126e-42
+model_04.txt 1.499556e-41
+model_02.txt 3.982016e-42
+model_03.txt 7.014231e-39
+model_02.txt 1.163666e-39
+model_04.txt 3.755032e-41
+model_05.txt 1.840348e-42
+model_04.txt 2.108208e-43
+model_03.txt 2.941342e-36
+model_01.txt 3.834522e-35
+model_05.txt 2.088110e-40
+model_03.txt 9.822442e-37
+model_04.txt 1.321258e-38
+model_04.txt 1.224819e-41
+model_01.txt 3.372612e-34
+model_03.txt 1.750341e-34
+model_02.txt 2.222849e-40
+model_02.txt 5.308539e-41
+model_04.txt 4.602107e-42
+model_02.txt 1.327554e-40
+model_04.txt 1.846014e-41
+model_02.txt 2.146958e-40
+model_03.txt 1.593201e-34
+model_02.txt 5.152327e-42
+model_04.txt 7.984089e-40
+model_02.txt 8.599781e-41
+model_01.txt 5.405326e-38
+model_03.txt 3.016299e-35
+model_04.txt 5.304114e-43
+model_05.txt 1.424531e-42
+model_04.txt 7.968563e-41
+model_03.txt 1.890878e-35
+model_01.txt 3.932453e-35
+model_03.txt 2.118231e-38
+model_02.txt 1.456935e-43
+model_02.txt 4.294745e-40
+model_03.txt 4.880490e-37
+model_03.txt 5.493529e-34
+model_04.txt 6.399019e-41
+model_05.txt 1.534143e-36
+model_03.txt 6.854696e-35
+model_02.txt 8.542986e-42
+model_05.txt 4.835276e-40
+model_02.txt 1.366726e-41
+model_03.txt 3.597051e-41
+model_01.txt 1.926096e-38
+model_03.txt 3.032577e-34
+model_04.txt 2.564367e-44
+model_04.txt 4.291417e-39
+model_02.txt 1.003210e-40
+model_05.txt 1.127568e-39
+model_02.txt 6.399183e-41
+model_05.txt 5.718983e-42
+model_04.txt 1.693105e-42
+model_04.txt 7.448944e-41
+model_03.txt 1.286550e-35
+model_01.txt 1.450093e-32
+model_04.txt 3.034213e-39
+model_05.txt 1.728923e-39
+model_03.txt 2.764125e-34
+model_04.txt 5.788386e-44
+model_02.txt 2.229164e-41
+model_02.txt 1.564822e-40
+model_01.txt 1.800813e-37
+model_02.txt 1.170421e-40
+model_04.txt 5.693492e-41
+model_04.txt 9.288341e-42
+model_04.txt 6.607723e-41
+model_04.txt 2.343882e-42
+model_03.txt 7.404374e-37
+model_02.txt 1.361171e-41
+model_04.txt 1.117439e-40
+model_04.txt 3.621696e-42
+model_01.txt 7.940374e-37
+model_02.txt 7.655991e-40
+model_04.txt 1.094938e-43
+model_02.txt 9.353181e-39
+model_01.txt 1.963327e-33
+model_04.txt 4.216903e-39
+model_04.txt 1.749353e-39
+model_03.txt 5.988225e-40
+model_01.txt 3.059258e-39
+model_02.txt 1.350740e-40
+model_04.txt 9.069804e-42
+model_02.txt 5.348968e-39
+model_02.txt 1.391069e-40
+model_04.txt 5.335166e-42
+model_01.txt 8.316220e-36
+model_04.txt 1.720695e-38
+model_01.txt 1.508668e-38
+model_03.txt 6.285107e-35
+model_02.txt 4.017617e-39
+model_04.txt 1.892218e-39
+model_04.txt 6.275297e-43
+model_02.txt 3.984558e-40
+model_01.txt 4.343270e-35
+model_05.txt 2.435977e-39
+model_01.txt 2.690038e-35
+model_05.txt 1.374447e-40
+model_03.txt 1.072789e-36
+model_02.txt 2.237513e-41
+model_03.txt 2.999898e-40
+model_01.txt 2.828962e-36
+model_03.txt 8.532877e-35
+model_01.txt 4.529189e-30
+model_05.txt 2.572024e-40
+model_03.txt 6.601684e-36
+model_01.txt 1.871213e-33
+model_04.txt 1.120362e-38
+model_04.txt 1.245844e-41
+model_01.txt 1.521592e-32
+model_03.txt 5.399919e-36
+model_05.txt 8.654508e-43
+model_03.txt 1.818142e-42
+model_03.txt 9.160281e-35
+model_02.txt 2.996778e-39
+model_01.txt 3.298780e-38
+model_01.txt 6.247846e-35
+model_05.txt 2.781280e-42
+model_04.txt 1.277895e-40
+model_04.txt 1.477312e-40
+model_01.txt 1.252553e-36
+model_01.txt 4.064982e-32
+model_02.txt 4.982343e-41
+model_01.txt 8.163077e-31
+model_03.txt 3.266938e-32
+model_03.txt 9.041294e-34
+model_03.txt 1.753528e-34
+model_01.txt 7.742701e-36
+model_05.txt 1.185438e-40
+model_05.txt 1.684293e-41
+model_02.txt 7.720129e-40
+model_04.txt 1.096661e-44
+model_03.txt 4.499817e-35
+model_02.txt 1.204005e-41
+model_04.txt 3.791442e-38
+model_04.txt 2.374502e-40
+model_02.txt 3.075825e-42
+model_03.txt 1.848974e-35
+model_01.txt 8.842033e-40
+model_03.txt 4.686288e-38
+model_02.txt 2.140928e-40
+model_01.txt 1.594114e-34
+model_03.txt 4.649112e-41
+model_02.txt 4.974649e-42
+model_02.txt 2.279136e-43
+model_01.txt 2.185444e-35
+model_01.txt 1.135155e-36
+model_05.txt 1.816580e-38
+model_02.txt 2.013639e-39
+model_04.txt 9.014224e-40
+model_05.txt 2.724336e-41
+model_03.txt 5.775990e-37
+model_03.txt 1.702876e-39
+model_04.txt 2.801955e-41
+model_04.txt 1.174639e-40
+model_01.txt 6.758185e-32
+model_05.txt 3.472869e-43
+model_01.txt 7.408086e-37
+model_05.txt 7.164405e-45
+model_03.txt 2.740334e-39
+model_04.txt 3.479626e-41
+model_02.txt 1.595035e-43
+model_01.txt 2.005782e-34
+model_01.txt 8.127872e-35
+model_02.txt 2.343499e-40
+model_03.txt 1.218523e-37
+model_03.txt 2.888696e-39
+model_04.txt 2.308890e-40
+model_01.txt 1.293307e-35
+model_05.txt 1.381971e-40
+model_03.txt 2.720490e-34
+model_04.txt 1.293384e-39
+model_05.txt 5.737630e-41
+model_02.txt 1.557365e-42
+model_02.txt 6.169116e-39
+model_04.txt 2.985018e-39
+model_03.txt 1.094334e-35
+model_03.txt 9.455846e-35
+model_02.txt 6.842666e-41
+model_02.txt 7.365684e-43
+model_01.txt 7.483388e-34
+model_02.txt 4.206871e-41
+model_03.txt 7.113131e-36
+model_02.txt 6.571374e-41
+model_03.txt 1.588720e-37
+model_05.txt 3.923024e-42
+model_01.txt 6.492046e-32
+model_04.txt 7.933150e-39
+model_03.txt 2.860038e-38
+model_01.txt 4.884293e-37
+model_03.txt 2.968248e-33
+model_01.txt 2.777630e-34
+model_01.txt 2.868531e-34
+model_04.txt 5.088043e-41
+model_03.txt 1.722065e-36
+model_01.txt 7.352755e-35
+model_05.txt 3.962993e-41
+model_02.txt 1.228488e-40
+model_03.txt 6.390665e-35
+model_02.txt 4.680470e-40
+model_04.txt 8.282863e-42
+model_05.txt 2.886847e-40
+model_05.txt 2.863171e-38
+model_01.txt 1.073051e-36
+model_02.txt 3.583770e-40
+model_03.txt 5.196737e-33
+model_04.txt 4.441615e-41
+model_04.txt 4.603041e-40
+model_02.txt 1.932372e-42
+model_03.txt 8.203627e-35
+model_02.txt 1.338553e-40
+model_02.txt 4.085832e-43
+model_04.txt 1.337152e-42
+model_02.txt 8.109178e-41
+model_02.txt 3.395544e-41
+model_04.txt 4.425110e-39
+model_04.txt 7.113942e-41
+model_04.txt 1.565067e-44
+model_01.txt 1.314932e-35
+model_01.txt 1.002368e-34
+model_01.txt 5.501886e-37
+model_01.txt 1.010894e-34
+model_05.txt 4.483349e-39
+model_02.txt 6.826804e-42
+model_03.txt 1.206801e-35
+model_03.txt 3.017527e-32
+model_05.txt 4.692248e-41
+model_02.txt 3.368409e-40
+model_04.txt 2.015301e-39
+model_05.txt 1.337165e-40
+model_05.txt 4.964179e-39
+model_02.txt 2.302783e-39
+model_03.txt 4.718030e-34
+model_03.txt 4.517058e-36
+model_03.txt 5.026117e-38
+model_02.txt 2.736251e-42
+model_02.txt 1.030851e-39
+model_01.txt 9.374280e-34
+model_04.txt 1.361477e-40
+model_03.txt 8.921915e-40
+model_05.txt 6.000129e-41
+model_02.txt 2.176381e-39
+model_04.txt 9.246556e-44
+model_02.txt 7.775071e-42
+model_02.txt 1.385296e-40
+model_03.txt 2.017313e-34
+model_03.txt 2.108011e-34
+model_01.txt 1.043503e-37
+model_03.txt 2.966238e-37
+model_03.txt 2.083913e-35
+model_04.txt 1.117745e-43
+model_04.txt 1.604565e-40
+model_01.txt 1.889881e-31
+model_04.txt 2.950733e-40
+model_04.txt 7.322077e-42
+model_05.txt 3.632891e-41
+model_02.txt 7.363512e-43
+model_01.txt 6.751232e-30
+model_02.txt 4.121929e-39
+model_02.txt 1.136828e-40
+model_03.txt 4.307685e-35
+model_02.txt 8.691995e-39
+model_01.txt 3.212846e-33
+model_01.txt 4.917666e-35
+model_03.txt 6.741113e-38
+model_05.txt 1.172522e-40
+model_01.txt 4.630731e-34
+model_04.txt 3.943325e-38
+model_02.txt 1.141113e-41
+model_02.txt 2.810296e-40
+model_02.txt 1.562195e-39
+model_02.txt 2.825988e-39
+model_05.txt 1.882418e-41
+model_03.txt 1.077866e-34
+model_01.txt 4.537686e-32
+model_02.txt 3.735395e-39
+model_03.txt 6.392468e-34
+model_01.txt 2.954436e-38
+model_05.txt 9.195893e-44
+model_01.txt 7.866064e-31
+model_02.txt 3.475562e-41
+model_03.txt 4.005296e-35
+model_01.txt 3.766944e-29
+model_01.txt 1.649778e-34
+model_04.txt 1.522950e-41
+model_01.txt 4.944324e-31
+model_02.txt 5.896539e-39
+model_04.txt 1.510569e-43
+model_01.txt 1.525926e-38
+model_04.txt 3.507962e-41
+model_05.txt 5.080370e-41
+model_04.txt 1.059177e-39
+model_03.txt 1.392686e-39
+model_02.txt 1.263923e-41
+model_02.txt 7.992283e-41
+model_05.txt 2.769054e-41
+model_02.txt 4.050220e-41
+model_02.txt 2.336094e-41
+model_01.txt 3.957158e-38
+model_04.txt 2.448354e-37
+model_02.txt 2.089132e-42
+model_02.txt 1.408976e-41
+model_02.txt 4.631700e-40
+model_02.txt 1.425649e-40
+model_03.txt 2.310921e-34
+model_04.txt 2.704454e-43
+model_03.txt 1.898135e-37
+model_05.txt 1.401092e-39
+model_03.txt 5.741061e-39
+model_03.txt 2.244009e-33
+model_03.txt 2.362094e-36
+model_02.txt 7.659655e-39
+model_01.txt 4.226486e-31
+model_01.txt 4.179374e-31
+model_03.txt 7.002278e-37
+model_01.txt 1.772098e-33
+model_02.txt 1.234179e-39
+model_04.txt 5.136882e-41
+model_04.txt 1.660709e-40
+model_01.txt 4.450005e-36
+model_03.txt 5.415190e-41
+model_05.txt 1.374382e-39
+model_02.txt 1.272465e-41
+model_01.txt 2.411352e-36
+model_03.txt 2.168919e-42
+model_03.txt 8.781325e-40
+model_02.txt 1.553959e-43
+model_03.txt 2.062701e-36
+model_02.txt 1.519112e-40
+model_02.txt 6.344758e-41
+model_03.txt 4.111331e-36
+model_03.txt 2.487559e-40
+model_04.txt 1.969997e-41
+model_05.txt 3.433556e-42
+model_03.txt 6.346662e-39
+model_03.txt 3.078503e-35
+model_01.txt 7.054372e-33
+model_04.txt 3.244099e-38
+model_04.txt 2.681664e-41
+model_05.txt 1.002996e-42
+model_03.txt 4.797691e-42
+model_03.txt 2.423383e-32
+model_03.txt 9.609073e-38
+model_03.txt 1.098959e-34
+model_01.txt 1.718178e-35
+model_02.txt 1.599214e-40
+model_05.txt 1.850394e-42
+model_03.txt 1.023737e-37
+model_04.txt 7.970504e-39
+model_01.txt 7.865475e-36
+model_03.txt 6.812852e-39
+model_03.txt 6.075890e-32
+model_04.txt 9.041114e-43
+model_05.txt 3.235666e-42
+model_02.txt 6.760171e-40
+model_04.txt 3.644903e-40
+model_01.txt 4.289873e-34
+model_05.txt 8.557355e-45
+model_05.txt 7.278301e-43
+model_01.txt 1.555024e-37
+model_03.txt 2.421747e-38
+model_05.txt 6.494433e-39
+model_02.txt 1.533562e-40
+model_02.txt 1.271738e-40
+model_03.txt 1.916396e-37
+model_01.txt 6.690724e-31
+model_03.txt 2.851103e-32
+model_01.txt 4.011506e-35
+model_03.txt 2.029275e-37
+model_02.txt 1.137794e-40
+model_02.txt 1.324974e-41
+model_02.txt 1.317022e-40
+model_02.txt 4.259608e-41
+model_02.txt 5.340520e-41
+model_05.txt 6.288823e-43
+model_01.txt 7.313761e-36
+model_02.txt 1.457520e-41
+model_02.txt 4.982331e-42
+model_04.txt 3.608957e-41
+model_01.txt 1.083218e-33
+model_01.txt 2.310989e-34
+model_05.txt 2.450459e-40
+model_03.txt 1.940877e-34
+model_03.txt 9.924901e-34
+model_04.txt 1.475253e-39
+model_03.txt 1.865584e-41
+model_04.txt 2.158427e-40
+model_02.txt 3.193067e-39
+model_02.txt 8.765793e-42
+model_01.txt 1.566238e-31
+model_02.txt 4.965550e-40
+model_02.txt 8.292348e-40
+model_01.txt 2.878457e-33
+model_03.txt 1.165266e-35
+model_04.txt 2.250169e-40
+model_03.txt 1.621240e-35
+model_02.txt 7.418094e-40
+model_01.txt 5.417773e-35
+model_04.txt 3.672737e-43
+model_02.txt 1.373379e-40
+model_01.txt 1.149481e-33
+model_03.txt 5.555515e-37
+model_04.txt 1.472884e-37
+model_04.txt 1.393442e-40
+model_03.txt 4.069887e-33
+model_02.txt 2.336845e-41
+model_03.txt 2.822175e-35
+model_02.txt 1.146034e-39
+model_01.txt 4.896059e-36
+model_01.txt 7.972869e-32
+model_01.txt 1.227652e-35
+model_01.txt 5.930324e-32
+model_03.txt 1.272711e-38
+model_04.txt 1.553371e-41
+model_01.txt 3.121958e-34
+model_03.txt 6.275190e-36
+model_02.txt 1.234596e-40
+model_03.txt 2.940638e-35
+model_02.txt 2.571734e-41
+model_04.txt 3.694268e-39
+model_02.txt 5.244242e-40
+model_03.txt 3.034318e-33
+model_03.txt 5.366778e-40
+model_01.txt 8.738266e-34
+model_03.txt 2.361357e-37
+model_05.txt 1.013933e-43
+model_04.txt 2.170797e-39
+model_02.txt 5.770137e-39
+model_02.txt 5.886378e-40
+model_01.txt 5.014500e-35
+model_01.txt 1.403040e-33
+model_04.txt 1.380262e-41
+model_04.txt 2.010454e-41
+model_03.txt 4.336786e-37
+model_03.txt 8.640332e-36
+model_02.txt 1.176860e-42
+model_01.txt 1.396658e-33
+model_02.txt 1.283989e-40
+model_04.txt 2.360545e-41
+model_05.txt 1.655557e-40
+model_03.txt 4.137108e-36
+model_01.txt 2.439050e-36
+model_03.txt 1.882078e-37
+model_03.txt 1.249312e-35
+model_03.txt 4.186411e-33
+model_03.txt 2.304707e-41
+model_01.txt 7.281473e-35
+model_02.txt 1.022244e-41
+model_02.txt 7.003641e-42
+model_03.txt 5.624054e-39
+model_03.txt 2.575502e-35
+model_02.txt 5.525690e-39
+model_02.txt 2.366478e-40
+model_04.txt 1.013720e-38
+model_03.txt 1.617191e-36
+model_02.txt 3.725192e-40
+model_05.txt 1.530633e-38
+model_02.txt 3.704050e-42
+model_03.txt 3.264835e-35
+model_01.txt 6.425089e-34
+model_02.txt 6.576818e-41
+model_04.txt 4.466884e-42
+model_05.txt 1.440196e-42
+model_02.txt 5.592258e-39
+model_02.txt 2.930317e-40
+model_05.txt 8.872424e-39
+model_05.txt 3.713660e-40
+model_01.txt 1.629650e-34
+model_02.txt 9.232955e-40
+model_04.txt 2.260855e-42
+model_04.txt 1.246775e-38
+model_01.txt 9.594596e-35
+model_04.txt 1.292155e-39
+model_04.txt 9.267136e-43
+model_02.txt 1.385825e-40
+model_05.txt 9.665124e-41
+model_03.txt 2.093847e-37
+model_03.txt 3.385561e-35
+model_04.txt 3.159534e-40
+model_04.txt 9.723281e-40
+model_01.txt 2.771641e-33
+model_02.txt 6.444661e-42
+model_04.txt 8.202701e-42
+model_04.txt 7.505252e-42
+model_03.txt 1.080280e-36
+model_04.txt 6.138004e-41
+model_03.txt 1.582420e-36
+model_05.txt 4.284331e-40
+model_04.txt 8.101612e-40
+model_03.txt 2.279504e-34
+model_03.txt 3.371378e-34
+model_02.txt 9.768010e-42
+model_04.txt 3.128508e-40
+model_01.txt 2.285124e-36
+model_05.txt 8.059421e-41
+model_01.txt 4.204734e-31
+model_03.txt 4.415728e-38
+model_02.txt 1.120595e-40
+model_01.txt 1.634025e-38
+model_05.txt 5.791840e-43
+model_03.txt 3.212676e-34
+model_02.txt 2.478361e-40
+model_02.txt 3.468646e-42
+model_02.txt 5.711497e-43
+model_03.txt 2.504891e-41
+model_04.txt 1.536494e-41
+model_03.txt 1.933945e-35
+model_04.txt 1.998493e-40
+model_05.txt 1.742584e-40
+model_05.txt 2.205627e-37
+model_02.txt 1.184958e-39
+model_02.txt 3.896696e-41
+model_04.txt 3.948274e-43
+model_04.txt 5.443810e-42
+model_05.txt 3.144180e-41
+model_03.txt 4.213051e-38
+model_05.txt 8.864051e-38
+model_01.txt 2.656633e-32
+model_02.txt 3.287023e-43
+model_03.txt 1.997212e-35
+model_02.txt 1.237578e-39
+model_03.txt 1.745776e-37
+model_05.txt 2.532019e-39
+model_01.txt 1.022698e-35
+model_04.txt 2.294356e-39
+model_04.txt 5.514387e-41
+model_05.txt 1.665683e-40
+model_02.txt 1.271480e-42
+model_05.txt 5.606883e-44
+model_01.txt 1.818021e-34
+model_05.txt 2.259974e-42
+model_03.txt 1.875461e-36
+model_04.txt 1.503919e-38
+model_03.txt 1.131478e-36
+model_04.txt 4.328832e-39
+model_03.txt 4.655263e-33
+model_03.txt 6.750868e-36
+model_03.txt 1.702776e-41
+model_04.txt 1.787133e-36
+model_04.txt 1.027595e-42
+model_01.txt 4.640031e-38
+model_04.txt 9.359502e-42
+model_02.txt 1.662324e-40
+model_05.txt 5.697922e-41
+model_05.txt 1.025382e-40
+model_04.txt 2.485211e-38
+model_04.txt 1.434002e-41
+model_05.txt 1.376998e-41
+model_01.txt 3.095384e-32
+model_04.txt 1.108943e-37
+model_02.txt 3.829078e-40
+model_03.txt 3.643595e-38
+model_03.txt 1.163834e-34
+model_01.txt 1.366477e-32
+model_05.txt 2.035550e-38
+model_03.txt 9.975298e-34
+model_01.txt 1.495572e-33
+model_02.txt 4.756376e-39
+model_03.txt 7.016098e-34
+model_01.txt 2.176487e-34
+model_01.txt 1.106371e-35
+model_03.txt 1.847401e-38
+model_03.txt 2.445916e-35
+model_02.txt 1.412756e-38
+model_03.txt 7.276748e-39
+model_01.txt 1.419646e-38
+model_03.txt 1.624834e-39
+model_01.txt 4.852667e-32
+model_04.txt 4.467415e-39
+model_02.txt 2.772687e-42
+model_02.txt 3.173111e-43
+model_03.txt 3.981813e-34
+model_03.txt 7.992674e-37
+model_03.txt 1.515500e-35
+model_02.txt 1.779904e-42
+model_04.txt 1.602640e-38
+model_01.txt 6.930168e-33
+model_05.txt 3.727861e-41
+model_04.txt 7.319100e-41
+model_04.txt 1.557132e-38
+model_01.txt 3.621164e-38
+model_01.txt 1.016084e-36
+model_03.txt 5.533103e-33
+model_05.txt 1.467302e-42
+model_04.txt 1.522463e-40
+model_03.txt 1.432480e-34
+model_04.txt 1.464649e-39
+model_05.txt 1.138343e-40
+model_04.txt 4.224601e-40
+model_05.txt 6.872541e-44
+model_02.txt 5.873666e-41
+model_01.txt 1.983661e-34
+model_01.txt 4.513092e-31
+model_04.txt 1.662408e-37
+model_02.txt 1.192181e-39
+model_05.txt 9.456617e-42
+model_03.txt 1.388720e-33
+model_03.txt 5.084889e-42
+model_01.txt 2.681308e-34
+model_05.txt 1.209760e-39
+model_04.txt 3.838804e-39
+model_02.txt 8.646044e-40
+model_03.txt 8.496488e-36
+model_04.txt 9.890832e-42
+model_02.txt 5.695268e-41
+model_04.txt 6.510131e-40
+model_05.txt 2.423897e-41
+model_04.txt 1.020076e-40
+model_02.txt 3.853513e-43
+model_05.txt 2.027881e-41
+model_02.txt 9.626570e-41
+model_03.txt 3.818459e-41
+model_05.txt 6.446983e-42
+model_03.txt 7.926010e-37
+model_05.txt 2.752829e-43
+model_03.txt 4.048817e-37
+model_03.txt 2.360536e-35
+model_05.txt 3.691876e-43
+model_01.txt 2.774589e-31
+model_04.txt 3.208210e-41
+model_01.txt 1.682336e-32
+model_05.txt 1.888644e-42
+model_03.txt 1.742828e-38
+model_04.txt 1.610618e-41
+model_03.txt 2.237162e-32
+model_04.txt 1.265144e-41
+model_02.txt 1.995386e-39
+model_02.txt 5.399862e-42
+model_03.txt 1.979630e-36
+model_04.txt 1.024044e-41
+model_05.txt 1.293668e-42
+model_05.txt 1.145011e-41
+model_04.txt 1.048437e-42
+model_05.txt 1.269713e-42
+model_04.txt 1.163636e-38
+model_02.txt 4.444112e-40
+model_05.txt 4.914146e-42
+model_02.txt 4.004448e-39
+model_03.txt 4.056916e-34
+model_02.txt 1.831233e-38
+model_04.txt 2.550471e-39
+model_02.txt 8.446790e-41
+model_01.txt 5.904051e-35
+model_04.txt 2.122268e-41
+model_02.txt 4.692119e-42
+model_05.txt 2.867979e-41
+model_05.txt 1.648015e-40
+model_01.txt 3.903754e-33
+model_01.txt 1.794027e-38
+model_03.txt 6.962366e-37
+model_01.txt 1.091135e-34
+model_03.txt 2.590741e-35
+model_02.txt 5.495311e-41
+model_01.txt 5.789816e-37
+model_02.txt 5.598538e-41
+model_04.txt 5.975374e-40
+model_05.txt 3.689982e-44
+model_04.txt 4.102749e-37
+model_04.txt 1.098202e-41
+model_04.txt 9.526129e-43
+model_01.txt 5.639759e-31
+model_02.txt 2.137955e-41
+model_03.txt 3.556237e-39
+model_01.txt 3.019760e-35
+model_04.txt 4.941957e-41
+model_05.txt 1.452044e-42
+model_01.txt 2.402174e-35
+model_05.txt 4.161060e-40
+model_01.txt 1.092639e-33
+model_04.txt 3.447800e-42
+model_05.txt 1.127805e-41
+model_03.txt 3.660911e-38
+model_01.txt 1.105720e-37
+model_03.txt 3.914389e-37
+model_05.txt 9.024212e-40
+model_05.txt 5.339748e-40
+model_05.txt 6.787852e-38
+model_02.txt 5.186186e-43
+model_03.txt 2.763045e-39
+model_03.txt 2.839267e-33
+model_02.txt 7.947045e-42
+model_04.txt 1.208579e-41
+model_04.txt 3.963716e-39
+model_04.txt 6.681669e-40
+model_04.txt 9.798233e-39
+model_03.txt 1.433772e-35
+model_04.txt 4.106663e-38
+model_04.txt 1.293475e-39
+model_04.txt 3.932606e-40
+model_01.txt 2.267248e-32
+model_04.txt 1.019669e-39
+model_02.txt 1.089034e-39
+model_01.txt 8.207041e-39
+model_01.txt 1.172187e-35
+model_04.txt 1.666303e-42
+model_01.txt 1.258298e-35
+model_01.txt 1.142573e-34
+model_03.txt 5.298941e-36
+model_03.txt 3.512298e-37
+model_02.txt 5.066561e-39
+model_02.txt 1.214002e-40
+model_03.txt 2.258147e-37
+model_03.txt 5.820448e-36
+model_03.txt 6.881682e-40
+model_02.txt 2.169719e-39
+model_03.txt 3.186074e-36
+model_03.txt 8.287246e-32
+model_03.txt 2.030633e-40
+model_02.txt 1.219373e-40
+model_02.txt 1.870351e-39
+model_01.txt 2.607785e-34
+model_03.txt 3.179143e-35
+model_04.txt 1.466736e-38
+model_03.txt 9.292032e-36
+model_04.txt 6.628942e-43
+model_04.txt 9.723812e-42
+model_01.txt 6.897631e-33
+model_02.txt 2.281468e-41
+model_02.txt 4.401198e-40
+model_01.txt 2.909378e-36
+model_02.txt 1.134776e-42
+model_05.txt 6.639728e-42
+model_02.txt 6.689352e-42
+model_02.txt 1.806946e-39
+model_03.txt 4.604035e-35
+model_02.txt 3.730657e-43
+model_04.txt 1.077062e-38
+model_05.txt 2.118428e-40
+model_01.txt 3.019378e-35
+model_01.txt 5.601634e-32
+model_01.txt 1.842436e-32
+model_03.txt 1.899550e-38
+model_03.txt 1.122324e-36
+model_03.txt 7.458619e-38
+model_01.txt 6.847126e-33
+model_03.txt 7.761420e-36
+model_01.txt 1.734722e-39
+model_02.txt 1.549847e-40
+model_01.txt 6.496281e-31
+model_04.txt 2.902951e-44
+model_01.txt 2.423958e-36
+model_04.txt 6.262645e-43
+model_02.txt 1.259213e-40
+model_05.txt 1.233893e-38
+model_01.txt 2.699846e-30
+model_02.txt 1.805702e-40
+model_03.txt 4.699162e-35
+model_02.txt 5.616496e-40
+model_04.txt 2.713503e-40
+model_05.txt 2.668060e-41
+model_03.txt 3.084480e-33
+model_02.txt 5.852619e-40
+model_04.txt 1.608064e-39
+model_05.txt 3.669234e-39
+model_03.txt 2.204625e-36
+model_05.txt 7.530345e-39
+model_02.txt 7.571276e-39
+model_04.txt 4.617585e-40
+model_03.txt 2.018816e-37
+model_02.txt 1.908248e-41
+model_01.txt 4.272491e-32
+model_03.txt 1.260600e-32
+model_02.txt 4.924138e-39
+model_03.txt 1.842222e-35
+model_05.txt 5.672572e-40
+model_05.txt 1.021864e-40
+model_02.txt 3.224188e-41
+model_03.txt 1.247497e-37
+model_03.txt 1.392627e-34
+model_01.txt 2.363317e-31
+model_04.txt 7.146651e-43
+model_01.txt 1.004356e-34
+model_01.txt 5.293041e-37
+model_05.txt 3.696577e-42
+model_02.txt 5.848662e-40
+model_05.txt 7.823237e-42
+model_02.txt 6.645889e-40
+model_03.txt 9.790389e-37
+model_02.txt 2.827246e-40
+model_03.txt 2.405393e-37
+model_04.txt 4.956676e-37
+model_04.txt 4.043338e-39
+model_04.txt 2.223608e-40
+model_03.txt 6.393599e-36
+model_01.txt 1.914761e-32
+model_02.txt 3.655139e-41
+model_04.txt 7.765561e-42
+model_05.txt 1.011198e-40
+model_04.txt 1.518220e-39
+model_04.txt 3.131418e-40
+model_03.txt 3.411965e-40
+model_02.txt 3.625356e-42
+model_02.txt 1.901308e-40
+model_01.txt 2.682953e-36
+model_03.txt 2.500217e-34
+model_04.txt 3.021083e-40
+model_02.txt 9.787979e-38
+model_01.txt 5.960614e-33
+model_03.txt 9.261092e-37
+model_02.txt 1.188984e-40
+model_03.txt 6.027527e-37
+model_02.txt 1.573632e-41
+model_04.txt 1.097067e-41
+model_04.txt 1.545778e-43
+model_03.txt 3.310031e-35
+model_01.txt 5.011237e-33
+model_01.txt 2.223603e-31
+model_01.txt 1.798387e-37
+model_02.txt 5.124012e-38
+model_04.txt 1.690493e-44
+model_02.txt 3.733269e-41
+model_04.txt 9.090519e-41
+model_02.txt 5.209733e-40
+model_02.txt 1.904968e-41
+model_02.txt 2.603505e-42
+model_01.txt 5.422852e-34
+model_01.txt 6.020416e-39
+model_04.txt 9.944282e-41
+model_03.txt 4.706310e-40
+model_02.txt 9.879692e-40
+model_05.txt 3.101619e-39
+model_03.txt 1.190812e-35
+model_01.txt 2.201018e-37
+model_03.txt 3.411158e-34
+model_01.txt 2.867570e-39
+model_02.txt 2.843960e-40
+model_01.txt 5.755193e-34
+model_03.txt 4.700497e-39
+model_03.txt 2.481002e-39
+model_03.txt 2.228734e-36
+model_04.txt 8.425697e-40
+model_04.txt 3.118531e-42
+model_04.txt 5.150060e-40
+model_02.txt 8.873825e-45
+model_01.txt 5.183354e-32
+model_02.txt 5.964502e-39
+model_02.txt 7.684839e-40
+model_03.txt 3.286328e-37
+model_05.txt 1.871742e-42
+model_03.txt 6.673840e-38
+model_04.txt 1.074572e-39
+model_02.txt 1.696903e-41
+model_03.txt 6.109132e-35
+model_05.txt 9.207408e-41
+model_05.txt 4.407001e-39
+model_02.txt 8.713153e-39
+model_04.txt 1.794606e-43
+model_04.txt 5.263716e-43
+model_05.txt 1.147260e-39
+model_02.txt 2.517833e-41
+model_02.txt 1.568103e-40
+model_04.txt 2.450300e-40
+model_04.txt 8.022551e-40
+model_03.txt 4.683414e-37
+model_05.txt 2.771944e-43
+model_02.txt 5.735352e-40
+model_04.txt 1.633731e-41
+model_04.txt 3.820547e-40
+model_05.txt 1.709856e-39
+model_01.txt 1.637523e-39
+model_03.txt 1.926440e-38
+model_05.txt 3.261885e-39
+model_01.txt 1.584041e-31
+model_01.txt 5.472352e-33
+model_04.txt 5.636605e-41
+model_05.txt 3.463849e-43
+model_02.txt 7.371685e-41
+model_03.txt 4.705916e-38
+model_01.txt 8.922952e-33
+model_02.txt 1.690133e-38
+model_04.txt 1.944104e-40
+model_02.txt 2.463262e-41
+model_03.txt 5.842966e-37
+model_03.txt 2.851558e-34
+model_01.txt 3.710030e-35
+model_02.txt 1.067542e-38
+model_03.txt 4.119224e-36
+model_03.txt 1.118135e-39
+model_03.txt 1.444952e-35
+model_04.txt 1.994234e-41
+model_03.txt 1.846311e-38
+model_01.txt 4.970905e-35
+model_04.txt 1.279178e-40
+model_02.txt 1.314944e-42
+model_04.txt 1.104614e-39
+model_02.txt 1.443335e-40
+model_03.txt 4.628325e-40
+model_02.txt 5.799850e-40
+model_04.txt 6.076921e-40
+model_04.txt 3.542732e-41
+model_05.txt 1.048950e-38
+model_03.txt 2.302117e-37
+model_02.txt 9.533645e-42
+model_04.txt 1.506595e-41
+model_05.txt 3.249300e-41
+model_01.txt 4.900207e-34
+model_01.txt 3.883944e-34
+model_04.txt 1.372612e-39
+model_05.txt 4.185454e-41
+model_05.txt 2.870289e-42
+model_04.txt 8.704316e-41
+model_04.txt 3.084082e-42
+model_02.txt 7.212303e-42
+model_05.txt 5.705122e-46
+model_01.txt 5.650526e-36
+model_04.txt 6.263307e-40
+model_03.txt 5.857492e-36
+model_04.txt 1.668417e-44
+model_03.txt 9.821803e-36
+model_03.txt 2.816088e-33
+model_02.txt 1.432420e-41
+model_01.txt 8.500794e-36
+model_01.txt 1.111396e-34
+model_04.txt 1.204557e-40
+model_02.txt 2.071268e-39
+model_03.txt 5.743325e-39
+model_04.txt 2.118518e-41
+model_01.txt 2.505681e-35
+model_03.txt 2.737142e-37
+model_04.txt 3.622358e-39
+model_03.txt 2.456329e-35
+model_05.txt 8.526630e-41
+model_05.txt 4.211725e-40
+model_01.txt 8.330448e-32
+model_04.txt 9.506364e-38
+model_02.txt 2.634715e-43
+model_01.txt 7.932628e-33
+model_02.txt 4.255960e-41
+model_04.txt 8.134349e-42
+model_03.txt 2.236965e-42
+model_01.txt 9.742352e-36
+model_04.txt 4.869160e-39
+model_03.txt 1.083020e-36
+model_05.txt 5.919668e-40
+model_04.txt 5.539843e-40
+model_01.txt 1.180178e-34
+model_02.txt 4.388316e-41
+model_04.txt 5.159078e-38
+model_01.txt 2.664467e-32
+model_01.txt 4.819471e-33
+model_02.txt 2.959667e-42
+model_03.txt 2.406318e-37
+model_01.txt 3.770108e-36
+model_04.txt 1.007873e-40
+model_02.txt 1.157673e-39
+model_03.txt 1.128567e-35
+model_03.txt 9.186974e-39
+model_01.txt 1.354771e-36
+model_04.txt 4.384944e-42
+model_03.txt 1.728514e-37
+model_05.txt 9.014632e-42
+model_02.txt 2.270259e-40
+model_04.txt 6.598948e-42
+model_04.txt 2.554995e-42
+model_04.txt 1.842304e-43
+model_05.txt 1.477085e-40
+model_02.txt 5.658459e-41
+model_01.txt 1.406038e-33
+model_01.txt 1.636607e-35
+model_02.txt 4.548804e-40
+model_01.txt 3.235509e-34
+model_05.txt 3.090153e-43
+model_02.txt 4.917552e-43
+model_03.txt 3.531276e-39
+model_05.txt 5.147038e-42
+model_05.txt 2.026393e-40
+model_01.txt 1.512915e-35
+model_02.txt 1.170009e-40
+model_05.txt 1.110345e-40
+model_03.txt 4.010626e-37
+model_02.txt 3.019374e-40
+model_01.txt 6.158976e-35
+model_04.txt 4.509508e-40
+model_01.txt 1.233404e-33
+model_05.txt 1.954104e-40
+model_01.txt 5.602151e-34
+model_02.txt 1.294735e-37
+model_01.txt 9.101600e-34
+model_01.txt 1.281564e-43
+model_01.txt 3.369709e-36
+model_04.txt 2.963543e-41
+model_02.txt 5.207865e-42
+model_05.txt 2.657274e-42
+model_02.txt 8.710779e-41
+model_01.txt 1.619548e-32
+model_01.txt 3.016266e-37
+model_05.txt 5.034662e-42
+model_02.txt 7.152761e-41
+model_04.txt 2.031115e-42
+model_02.txt 1.785218e-42
+model_04.txt 1.487625e-43
+model_01.txt 6.017170e-35
+model_01.txt 8.890999e-37
+model_01.txt 1.003219e-35
+model_01.txt 3.225054e-34
+model_01.txt 7.301813e-34
+model_04.txt 5.587510e-40
+model_01.txt 2.290578e-34
+model_05.txt 1.602365e-40
+model_03.txt 4.169936e-35
+model_03.txt 1.820530e-38
+model_03.txt 2.031272e-36
+model_05.txt 6.099871e-43
+model_01.txt 2.032743e-37
+model_01.txt 7.064011e-37
+model_01.txt 2.207974e-36
+model_02.txt 8.456989e-41
+model_02.txt 3.324350e-39
+model_04.txt 1.464266e-40
+model_04.txt 1.287989e-38
+model_04.txt 3.947224e-43
+model_01.txt 2.318396e-36
+model_02.txt 9.806062e-42
+model_01.txt 4.681871e-35
+model_01.txt 1.043332e-33
+model_02.txt 6.071953e-39
+model_01.txt 2.446448e-32
+model_01.txt 4.848044e-37
+model_01.txt 1.041456e-32
+model_05.txt 5.365129e-40
+model_03.txt 2.324718e-37
+model_03.txt 3.487770e-38
+model_01.txt 1.908761e-35
+model_04.txt 1.342890e-41
+model_03.txt 2.381334e-34
+model_05.txt 2.151192e-45
+model_01.txt 6.294737e-40
+model_03.txt 2.011541e-36
+model_01.txt 1.495842e-34
+model_05.txt 6.266676e-44
+model_04.txt 6.322977e-40
+model_01.txt 4.847440e-36
+model_03.txt 4.592256e-44
+model_05.txt 6.567907e-42
+model_02.txt 4.841415e-39
+model_04.txt 4.479806e-44
+model_02.txt 1.307546e-39
+model_01.txt 2.725883e-38
+model_02.txt 6.648505e-42
+model_04.txt 3.164390e-44
+model_01.txt 2.678074e-35
+model_02.txt 7.771200e-41
+model_01.txt 3.864937e-36
+model_04.txt 1.358992e-40
+model_03.txt 1.878193e-33
+model_02.txt 1.520802e-44
+model_05.txt 7.490307e-39
+model_02.txt 1.028580e-39
+model_03.txt 3.147485e-38
+model_03.txt 2.304901e-37
+model_01.txt 1.974534e-33
+model_02.txt 3.166076e-41
+model_05.txt 1.299386e-40
+model_01.txt 8.875148e-37
+model_02.txt 2.386753e-39
+model_02.txt 2.309335e-39
+model_02.txt 3.687911e-39
+model_04.txt 7.732446e-41
+model_02.txt 4.944877e-39
+model_05.txt 1.263453e-41
+model_01.txt 2.859055e-35
+model_01.txt 4.525947e-33
+model_04.txt 5.840001e-41
+model_05.txt 7.054333e-43
+model_01.txt 3.882371e-34
+model_05.txt 1.147967e-40
+model_01.txt 2.492943e-34
+model_03.txt 5.331507e-42
+model_01.txt 1.600471e-36
+model_05.txt 6.012546e-40
+model_03.txt 1.155963e-38
+model_04.txt 4.661075e-40
+model_03.txt 5.610065e-34
+model_04.txt 1.461604e-39
+model_02.txt 1.463860e-40
+model_05.txt 2.503953e-41
+model_01.txt 4.863232e-30
+model_04.txt 9.864547e-44
+model_03.txt 1.710705e-38
+model_05.txt 1.048375e-41
+model_02.txt 3.685794e-41
+model_05.txt 1.854189e-40
+model_02.txt 7.671818e-43
+model_03.txt 2.143362e-35
+model_03.txt 1.341434e-36
+model_02.txt 9.545457e-40
+model_03.txt 3.568649e-35
+model_04.txt 8.175207e-44
+model_04.txt 4.716541e-41
+model_03.txt 2.365791e-32
+model_01.txt 3.363456e-35
+model_05.txt 4.168780e-40
+model_01.txt 1.234815e-34
+model_01.txt 2.059110e-37
+model_01.txt 8.542093e-34
+model_03.txt 9.414609e-39
+model_04.txt 1.884649e-41
+model_04.txt 1.241086e-38
+model_05.txt 2.668771e-43
+model_04.txt 3.142605e-40
+model_04.txt 6.805168e-40
+model_04.txt 5.772523e-41
+model_04.txt 1.442565e-42
+model_02.txt 5.227446e-44
+model_04.txt 4.145040e-42
+model_05.txt 5.878678e-40
+model_01.txt 5.437035e-35
+model_03.txt 5.478346e-36
+model_03.txt 9.008412e-40
+model_05.txt 4.701622e-38
+model_04.txt 4.575131e-41
+model_03.txt 1.033836e-35
+model_05.txt 7.991852e-40
+model_05.txt 2.486160e-40
+model_01.txt 2.282057e-32
+model_01.txt 6.472794e-38
+model_03.txt 3.193609e-34
+model_05.txt 1.105364e-41
+model_01.txt 1.998797e-33
+model_05.txt 3.723018e-40
+model_03.txt 4.570583e-40
+model_02.txt 7.888404e-42
+model_03.txt 2.069253e-40
+model_05.txt 2.902605e-42
+model_05.txt 4.182166e-42
+model_04.txt 3.835596e-42
+model_01.txt 1.560300e-34
+model_01.txt 4.604333e-36
+model_03.txt 1.623541e-34
+model_05.txt 7.752324e-40
+model_01.txt 1.967913e-34
+model_02.txt 9.140261e-41
+model_02.txt 2.803320e-39
+model_03.txt 3.674716e-35
+model_02.txt 1.063877e-39
+model_04.txt 4.331580e-44
+model_01.txt 4.358755e-33
+model_01.txt 2.582151e-37
+model_01.txt 3.528113e-33
+model_04.txt 7.777218e-40
+model_03.txt 6.576573e-39
+model_01.txt 5.346833e-33
+model_01.txt 4.134273e-37
+model_03.txt 1.380424e-35
+model_03.txt 8.904933e-36
+model_01.txt 4.131788e-36
+model_02.txt 4.333552e-39
+model_03.txt 7.393603e-36
+model_01.txt 2.199288e-33
+model_05.txt 1.275821e-42
+model_04.txt 3.845120e-41
+model_03.txt 4.477996e-39
+model_03.txt 7.883871e-37
+model_01.txt 9.548544e-32
+model_03.txt 1.089451e-38
+model_05.txt 6.254128e-42
+model_04.txt 9.915780e-41
+model_02.txt 2.003615e-42
+model_05.txt 2.765901e-39
+model_02.txt 4.716498e-40
+model_01.txt 7.240544e-34
+model_04.txt 3.814654e-44
+model_04.txt 4.938500e-41
+model_05.txt 1.134642e-42
+model_05.txt 6.321481e-40
+model_01.txt 3.605079e-31
+model_03.txt 4.896587e-37
+model_02.txt 9.618010e-41
+model_05.txt 2.242594e-39
+model_02.txt 1.274976e-40
+model_01.txt 6.093427e-37
+model_01.txt 7.419145e-35
+model_01.txt 1.170744e-34
+model_01.txt 6.751297e-36
+model_01.txt 4.453974e-33
+model_01.txt 1.455974e-36
+model_03.txt 5.444802e-38
+model_04.txt 1.918263e-37
+model_02.txt 2.926954e-40
+model_03.txt 7.027793e-36
+model_01.txt 4.603414e-34
+model_02.txt 3.909235e-40
+model_01.txt 1.976592e-39
+model_04.txt 6.126900e-40
+model_02.txt 9.583340e-41
+model_04.txt 7.987669e-41
+model_04.txt 1.999083e-41
+model_01.txt 8.907326e-34
+model_03.txt 1.092744e-35
+model_02.txt 2.625462e-40
+model_02.txt 1.807212e-39
+model_03.txt 6.417411e-36
+model_01.txt 1.865230e-32
+model_01.txt 1.208539e-31
+model_02.txt 4.621184e-40
+model_03.txt 9.001192e-39
+model_02.txt 5.621345e-38
+model_05.txt 1.506116e-40
+model_05.txt 8.779277e-43
+model_04.txt 2.247148e-39
+model_04.txt 3.825493e-39
+model_03.txt 2.588123e-35
+model_04.txt 1.188577e-42
+model_03.txt 1.195819e-33
+model_03.txt 2.201373e-37
+model_03.txt 4.261178e-34
+model_03.txt 2.404091e-36
+model_02.txt 2.968240e-38
+model_04.txt 1.847320e-42
+model_03.txt 4.846154e-35
+model_05.txt 4.532651e-39
+model_02.txt 6.332154e-41
+model_05.txt 5.795365e-42
+model_04.txt 1.027817e-41
+model_03.txt 1.156393e-37
+model_02.txt 9.722216e-40
+model_03.txt 7.323019e-40
+model_01.txt 3.303226e-33
+model_04.txt 1.068372e-43
+model_02.txt 1.643536e-43
+model_01.txt 1.666044e-31
+model_02.txt 2.931217e-42
+model_05.txt 1.081520e-40
+model_04.txt 4.518894e-42
+model_01.txt 9.177508e-34
+model_05.txt 3.581670e-40
+model_04.txt 1.377314e-38
+model_03.txt 5.969505e-40
+model_02.txt 2.070367e-43
+model_02.txt 5.145083e-40
+model_04.txt 7.420488e-39
+model_04.txt 2.729634e-39
+model_02.txt 4.782817e-41
+model_04.txt 7.865108e-41
+model_04.txt 6.532478e-43
+model_02.txt 2.544244e-41
+model_04.txt 2.223433e-39
+model_03.txt 2.250392e-34
+model_04.txt 1.296263e-39
+model_04.txt 1.388371e-39
+model_02.txt 4.135785e-39
+model_02.txt 5.473194e-41
+model_01.txt 4.244316e-36
+model_02.txt 1.657106e-41
+model_04.txt 3.817754e-42
+model_04.txt 2.310127e-41
+model_01.txt 5.243264e-34
+model_02.txt 2.140503e-40
+model_01.txt 2.852426e-31
+model_05.txt 1.457639e-40
+model_05.txt 1.427444e-41
+model_03.txt 1.028090e-31
+model_03.txt 4.958194e-38
+model_01.txt 8.289609e-36
+model_03.txt 1.986851e-37
+model_01.txt 7.072792e-34
+model_04.txt 1.052586e-41
+model_02.txt 6.038936e-40
+model_03.txt 6.474786e-37
+model_02.txt 9.420210e-39
+model_04.txt 5.695931e-40
+model_02.txt 4.243496e-40
+model_04.txt 2.032599e-40
+model_04.txt 4.078192e-39
+model_03.txt 4.468446e-34
+model_02.txt 1.665840e-43
+model_05.txt 1.640775e-42
+model_05.txt 2.695842e-41
+model_03.txt 5.397863e-39
+model_04.txt 5.076860e-39
+model_05.txt 2.017079e-40
+model_02.txt 3.775239e-41
+model_02.txt 1.422934e-40
+model_04.txt 2.497267e-39
+model_01.txt 9.426247e-34
+model_04.txt 6.350087e-40
+model_01.txt 2.486958e-35
+model_02.txt 5.891237e-39
+model_03.txt 1.084808e-33
+model_02.txt 4.917356e-44
+model_03.txt 1.771197e-38
+model_02.txt 3.813073e-40
+model_02.txt 6.521354e-40
+model_02.txt 9.447109e-39
+model_03.txt 3.745752e-40
+model_01.txt 3.849047e-35
+model_02.txt 5.372296e-39
+model_05.txt 1.833460e-41
+model_03.txt 4.241855e-35
+model_04.txt 4.987872e-43
+model_03.txt 8.809955e-35
+model_03.txt 4.279198e-39
+model_03.txt 5.247091e-33
+model_05.txt 1.008538e-39
+model_02.txt 6.890990e-41
+model_02.txt 5.714344e-41
+model_01.txt 5.149915e-34
+model_03.txt 2.118932e-35
+model_04.txt 4.554893e-42
+model_03.txt 1.810035e-36
+model_05.txt 7.110802e-38
+model_02.txt 2.118658e-42
+model_02.txt 1.161750e-39
+model_04.txt 5.428665e-39
+model_04.txt 5.580471e-41
+model_01.txt 8.154921e-32
+model_03.txt 2.578146e-34
+model_05.txt 7.080076e-41
+model_02.txt 2.430137e-40
+model_02.txt 4.180664e-41
+model_04.txt 2.774413e-41
+model_01.txt 2.331531e-37
+model_01.txt 2.412021e-34
+model_04.txt 4.246048e-43
+model_01.txt 7.240918e-37
+model_04.txt 3.461124e-40
+model_01.txt 2.054052e-38
+model_04.txt 2.359412e-44
+model_05.txt 1.996965e-41
+model_03.txt 5.951178e-34
+model_01.txt 8.585770e-35
+model_04.txt 5.089904e-40
+model_02.txt 4.676081e-43
+model_01.txt 4.511667e-34
+model_02.txt 4.155271e-42
+model_02.txt 3.031379e-40
+model_03.txt 4.889451e-39
+model_04.txt 3.454410e-44
+model_04.txt 1.894406e-39
+model_04.txt 1.644128e-41
+model_01.txt 1.003649e-35
+model_05.txt 1.634969e-40
+model_03.txt 1.317831e-38
+model_05.txt 1.640041e-41
+model_05.txt 1.925335e-41
+model_01.txt 9.818619e-37
+model_01.txt 4.463390e-37
+model_04.txt 7.704617e-41
+model_01.txt 1.799463e-33
+model_01.txt 8.759087e-33
+model_05.txt 9.195801e-45
+model_04.txt 8.010760e-41
+model_02.txt 8.864073e-42
+model_03.txt 4.965264e-35
+model_01.txt 4.290404e-34
+model_02.txt 4.626019e-42
+model_01.txt 2.851812e-35
+model_04.txt 4.937298e-38
+model_02.txt 4.306399e-38
+model_02.txt 8.021360e-40
+model_04.txt 1.849837e-41
+model_04.txt 2.753865e-40
+model_02.txt 1.450813e-41
+model_02.txt 2.834119e-39
+model_04.txt 1.217517e-39
+model_02.txt 1.926977e-38
+model_03.txt 4.477259e-33
+model_04.txt 6.642478e-40
+model_01.txt 3.713827e-34
+model_03.txt 4.032473e-34
+model_02.txt 6.298569e-40
+model_03.txt 1.607597e-35
+model_04.txt 8.610690e-44
+model_01.txt 2.286847e-33
+model_04.txt 3.983878e-40
+model_04.txt 7.435516e-41
+model_05.txt 1.826825e-40
+model_01.txt 8.726383e-33
+model_03.txt 3.841804e-35
+model_04.txt 6.691114e-41
+model_04.txt 7.108459e-40
+model_02.txt 4.396584e-39
+model_02.txt 1.991751e-39
+model_02.txt 1.332786e-39
+model_04.txt 1.123736e-40
+model_05.txt 2.743725e-40
+model_03.txt 8.397005e-35
+model_04.txt 4.485820e-42
+model_02.txt 5.497270e-40
+model_04.txt 8.856870e-39
+model_01.txt 5.490508e-34
+model_03.txt 9.792991e-42
+model_03.txt 1.483953e-37
+model_03.txt 4.884111e-37
+model_04.txt 3.447447e-41
+model_03.txt 1.866653e-37
+model_04.txt 4.468349e-40
+model_01.txt 1.786763e-37
+model_04.txt 4.612844e-41
+model_03.txt 3.324378e-37
+model_04.txt 1.706674e-39
+model_02.txt 6.687840e-41
+model_01.txt 2.892800e-34
+model_01.txt 3.527012e-37
+model_01.txt 1.609659e-35
+model_05.txt 1.925741e-43
+model_02.txt 3.606267e-40
+model_03.txt 1.916893e-34
+model_01.txt 1.183394e-35
+model_02.txt 1.637161e-42
+model_03.txt 1.216510e-37
+model_01.txt 3.823783e-34
+model_02.txt 6.754756e-39
+model_03.txt 3.417591e-39
+model_02.txt 1.881640e-41
+model_01.txt 4.602056e-36
+model_04.txt 6.084808e-40
+model_02.txt 6.270614e-39
+model_02.txt 8.574184e-41
+model_05.txt 1.904195e-40
+model_05.txt 3.161103e-40
+model_04.txt 9.169279e-42
+model_01.txt 6.202774e-33
+model_03.txt 2.575216e-39
+model_03.txt 3.232992e-35
+model_03.txt 4.044075e-40
+model_03.txt 1.772494e-38
+model_03.txt 2.659432e-32
+model_01.txt 1.664977e-36
+model_03.txt 3.212463e-33
+model_02.txt 8.595909e-40
+model_03.txt 1.508083e-37
+model_04.txt 1.940180e-39
+model_04.txt 7.436994e-39
+model_04.txt 4.895059e-41
+model_04.txt 5.855661e-42
+model_01.txt 2.207162e-34
+model_05.txt 1.386003e-37
+model_01.txt 1.151277e-38
+model_02.txt 2.172248e-42
+model_03.txt 6.412310e-37
+model_01.txt 1.143851e-34
+model_03.txt 2.419306e-35
+model_03.txt 1.483019e-37
+model_04.txt 8.416306e-39
+model_02.txt 3.348846e-38
+model_03.txt 1.396102e-32
+model_03.txt 6.388499e-38
+model_01.txt 3.108859e-33
+model_01.txt 1.246959e-40
+model_02.txt 1.247466e-41
+model_05.txt 1.204516e-43
+model_03.txt 5.077974e-37
+model_04.txt 3.915019e-42
+model_04.txt 1.109152e-39
+model_03.txt 9.058543e-39
+model_01.txt 1.653697e-38
+model_05.txt 4.295770e-41
+model_04.txt 8.561594e-42
+model_03.txt 1.089426e-34
+model_02.txt 3.089906e-39
+model_01.txt 1.265148e-33
+model_03.txt 1.044157e-37
+model_02.txt 9.374129e-42
+model_04.txt 2.566011e-41
+model_01.txt 6.623791e-32
+model_03.txt 3.417557e-36
+model_02.txt 1.594267e-40
+model_05.txt 1.759994e-40
+model_05.txt 1.704635e-42
+model_04.txt 1.484877e-39
+model_05.txt 6.810100e-42
+model_04.txt 6.284147e-40
+model_04.txt 7.885004e-40
+model_02.txt 1.557011e-41
+model_02.txt 1.752336e-39
+model_03.txt 4.097338e-40
+model_04.txt 3.111053e-38
+model_03.txt 1.117455e-36
+model_03.txt 6.538387e-37
+model_04.txt 1.115491e-40
+model_04.txt 4.658047e-41
+model_02.txt 4.972755e-39
+model_01.txt 6.260661e-31
+model_05.txt 2.626264e-41
+model_03.txt 2.197256e-38
+model_02.txt 2.327582e-43
+model_04.txt 5.394326e-41
+model_04.txt 4.885325e-38
+model_01.txt 1.487813e-33
+model_01.txt 4.071936e-37
+model_05.txt 3.055392e-39
+model_04.txt 4.099319e-39
+model_04.txt 6.813375e-42
+model_05.txt 1.574634e-40
+model_01.txt 7.425687e-32
+model_01.txt 1.770603e-39
+model_02.txt 4.627288e-40
+model_05.txt 4.023357e-43
+model_03.txt 1.026928e-38
+model_03.txt 2.348425e-35
+model_03.txt 2.303870e-34
+model_03.txt 8.561848e-36
+model_05.txt 1.292608e-42
+model_01.txt 2.149388e-37
+model_04.txt 8.691682e-42
+model_01.txt 1.850637e-35
+model_01.txt 1.558211e-36
+model_02.txt 1.955761e-40
+model_04.txt 3.524569e-41
+model_01.txt 7.848504e-35
+model_01.txt 6.757051e-36
+model_03.txt 8.736045e-36
+model_04.txt 8.484343e-40
+model_03.txt 1.868597e-37
+model_03.txt 2.213232e-38
+model_03.txt 3.062908e-40
+model_03.txt 1.227661e-35
+model_04.txt 7.878393e-40
+model_05.txt 6.293412e-40
+model_01.txt 2.474567e-33
+model_02.txt 4.922600e-40
+model_01.txt 9.013108e-40
+model_02.txt 9.477605e-41
+model_05.txt 3.465058e-42
+model_03.txt 5.343101e-37
+model_02.txt 1.021031e-39
+model_02.txt 1.910373e-39
+model_05.txt 1.022246e-41
+model_01.txt 1.191190e-30
+model_04.txt 1.623975e-37
+model_03.txt 1.242222e-34
+model_03.txt 4.198308e-37
+model_04.txt 1.680729e-39
+model_04.txt 1.795115e-40
+model_01.txt 3.448975e-31
+model_05.txt 3.435323e-40
+model_02.txt 2.922057e-42
+model_02.txt 8.318692e-42
+model_05.txt 1.009080e-40
+model_02.txt 5.725357e-40
+model_03.txt 2.539215e-36
+model_02.txt 5.039653e-41
+model_01.txt 1.413628e-35
+model_04.txt 1.244511e-40
+model_04.txt 1.281887e-43
+model_04.txt 6.088646e-40
+model_02.txt 4.866628e-41
+model_01.txt 6.837151e-44
+model_05.txt 7.660606e-42
+model_01.txt 6.345229e-35
+model_01.txt 4.426724e-38
+model_04.txt 2.631339e-43
+model_02.txt 3.851344e-41
+model_02.txt 1.821340e-41
+model_01.txt 5.267851e-31
+model_01.txt 1.743503e-34
+model_05.txt 2.464690e-40
+model_03.txt 2.139598e-33
+model_03.txt 8.261360e-37
+model_01.txt 5.586526e-33
+model_03.txt 1.732283e-36
+model_02.txt 4.643193e-39
+model_05.txt 1.404845e-37
+model_01.txt 2.787187e-32
+model_01.txt 3.197055e-36
+model_01.txt 3.402056e-32
+model_02.txt 6.450405e-40
+model_04.txt 9.038488e-43
+model_01.txt 1.011041e-33
+model_01.txt 2.949562e-36
+model_04.txt 2.260952e-39
+model_01.txt 3.190421e-32
+model_03.txt 1.100772e-38
+model_02.txt 7.320586e-42
+model_04.txt 3.507878e-41
+model_01.txt 7.989505e-31
+model_01.txt 2.735808e-34
+model_04.txt 1.861634e-39
+model_04.txt 1.068498e-38
+model_01.txt 5.292768e-34
+model_01.txt 4.530135e-36
+model_03.txt 9.261336e-37
+model_05.txt 2.261939e-44
+model_04.txt 1.409219e-40
+model_03.txt 1.465037e-38
+model_02.txt 1.369045e-40
+model_03.txt 2.211627e-42
+model_03.txt 4.688790e-38
+model_01.txt 1.571031e-33
+model_02.txt 1.245972e-39
+model_01.txt 1.278059e-34
+model_04.txt 2.586356e-38
+model_02.txt 1.433483e-41
+model_04.txt 2.787772e-40
+model_01.txt 2.189344e-29
+model_01.txt 5.053722e-38
+model_03.txt 3.248179e-38
+model_05.txt 8.775138e-42
+model_02.txt 2.269686e-41
+model_01.txt 7.948131e-32
+model_01.txt 2.370130e-32
+model_05.txt 1.116297e-40
+model_05.txt 4.061503e-42
+model_03.txt 4.460369e-34
+model_01.txt 3.986082e-32
+model_04.txt 4.343686e-40
+model_01.txt 3.789065e-33
+model_03.txt 4.990680e-36
+model_01.txt 3.501593e-34
+model_02.txt 1.512878e-41
+model_04.txt 3.767641e-41
+model_04.txt 1.700381e-39
+model_04.txt 8.273501e-41
+model_02.txt 7.372805e-40
+model_02.txt 8.634423e-40
+model_04.txt 7.636352e-40
+model_03.txt 1.896839e-43
+model_04.txt 7.862965e-43
+model_02.txt 9.709751e-40
+model_02.txt 2.107593e-43
+model_02.txt 1.862544e-41
+model_02.txt 3.809563e-40
+model_04.txt 5.742767e-40
+model_02.txt 2.038632e-39
+model_02.txt 2.316648e-40
+model_03.txt 1.225752e-35
+model_02.txt 1.878129e-42
+model_05.txt 4.904193e-41
+model_01.txt 1.711488e-31
+model_03.txt 5.302164e-35
+model_02.txt 4.200242e-40
+model_01.txt 8.702347e-35
+model_03.txt 6.563632e-36
+model_05.txt 1.840663e-39
+model_02.txt 7.628738e-40
+model_01.txt 1.126559e-35
+model_03.txt 1.118987e-33
+model_05.txt 2.990659e-41
+model_02.txt 1.079516e-40
+model_04.txt 1.622946e-40
+model_02.txt 1.177982e-40
+model_04.txt 6.275119e-39
+model_05.txt 8.803054e-43
+model_03.txt 1.328018e-35
+model_03.txt 5.565998e-35
+model_04.txt 2.994657e-39
+model_01.txt 1.127251e-33
+model_04.txt 4.569916e-41
+model_01.txt 2.805028e-33
+model_04.txt 3.650187e-43
+model_05.txt 1.165882e-39
+model_02.txt 1.456102e-40
+model_01.txt 1.773204e-35
+model_04.txt 1.375373e-38
+model_05.txt 4.172636e-40
+model_04.txt 2.152476e-42
+model_04.txt 7.464400e-38
+model_02.txt 4.584681e-38
+model_04.txt 1.233275e-40
+model_02.txt 1.056615e-42
+model_03.txt 1.938603e-37
+model_04.txt 2.138960e-40
+model_02.txt 4.693257e-41
+model_03.txt 1.733878e-35
+model_04.txt 1.541110e-42
+model_01.txt 4.542099e-37
+model_03.txt 2.943418e-36
+model_04.txt 2.283560e-42
+model_02.txt 3.216864e-39
+model_02.txt 7.742765e-42
+model_04.txt 6.417883e-43
+model_01.txt 1.122101e-32
+model_03.txt 4.860091e-34
+model_01.txt 1.680807e-35
+model_02.txt 6.189545e-41
+model_05.txt 4.589257e-40
+model_03.txt 2.264189e-37
+model_01.txt 1.268317e-32
+model_02.txt 2.228224e-40
+model_02.txt 6.884973e-42
+model_05.txt 4.850726e-44
+model_02.txt 2.752632e-40
+model_04.txt 2.873291e-41
+model_04.txt 1.077411e-42
+model_05.txt 9.283308e-43
+model_02.txt 2.455919e-42
+model_04.txt 1.739271e-39
+model_01.txt 2.271715e-33
+model_03.txt 2.301714e-35
+model_03.txt 5.895114e-34
+model_01.txt 2.285726e-35
+model_01.txt 2.649397e-34
+model_03.txt 2.096447e-37
+model_04.txt 5.058635e-40
+model_05.txt 1.412751e-38
+model_04.txt 1.962286e-42
+model_05.txt 1.008680e-40
+model_04.txt 1.283369e-38
+model_03.txt 1.497183e-36
+model_03.txt 4.178790e-37
+model_03.txt 9.876243e-32
+model_04.txt 3.249678e-40
+model_04.txt 1.378454e-40
+model_04.txt 2.680278e-43
+model_01.txt 1.608256e-36
+model_03.txt 5.907427e-34
+model_01.txt 2.447200e-37
+model_02.txt 8.555093e-41
+model_03.txt 6.321857e-37
+model_01.txt 3.411374e-36
+model_04.txt 2.263825e-38
+model_02.txt 5.442766e-40
+model_01.txt 5.659560e-36
+model_03.txt 5.101515e-37
+model_02.txt 1.359848e-42
+model_04.txt 1.183910e-38
+model_01.txt 7.904025e-33
+model_01.txt 7.365886e-34
+model_03.txt 1.453314e-39
+model_03.txt 2.611683e-40
+model_01.txt 9.322552e-35
+model_02.txt 1.313201e-40
+model_03.txt 4.949229e-40
+model_02.txt 1.177982e-40
+model_02.txt 3.443702e-41
+model_04.txt 1.758371e-39
+model_05.txt 7.491124e-43
+model_02.txt 2.095472e-42
+model_03.txt 8.219369e-36
+model_01.txt 3.947510e-30
+model_04.txt 3.118006e-43
+model_02.txt 1.218462e-38
+model_01.txt 1.950271e-35
+model_03.txt 9.930989e-34
+model_03.txt 6.597335e-36
+model_04.txt 3.417287e-44
+model_04.txt 7.104437e-41
+model_01.txt 9.401145e-36
+model_04.txt 2.662434e-41
+model_02.txt 3.170116e-43
+model_02.txt 4.404511e-39
+model_01.txt 6.028836e-33
+model_04.txt 8.944481e-40
+model_03.txt 1.697788e-39
+model_04.txt 2.374724e-40
+model_01.txt 1.004679e-37
+model_01.txt 5.488829e-38
+model_01.txt 3.820671e-37
+model_04.txt 5.432026e-42
+model_05.txt 1.262741e-41
+model_03.txt 3.034388e-33
+model_04.txt 3.228393e-39
+model_04.txt 2.537568e-44
+model_02.txt 3.489989e-40
+model_05.txt 3.558200e-39
+model_02.txt 7.151093e-41
+model_01.txt 4.688797e-36
+model_05.txt 3.958399e-40
+model_04.txt 4.267113e-44
+model_04.txt 4.051363e-40
+model_03.txt 9.039272e-41
+model_05.txt 6.295256e-41
+model_03.txt 2.015681e-40
+model_04.txt 2.092130e-39
+model_01.txt 6.641889e-34
+model_03.txt 1.040879e-38
+model_04.txt 6.884611e-40
+model_05.txt 6.130938e-42
+model_05.txt 3.746360e-40
+model_05.txt 1.195469e-41
+model_01.txt 2.443268e-39
+model_05.txt 9.048363e-42
+model_03.txt 7.388993e-37
+model_04.txt 2.593702e-41
+model_01.txt 1.781048e-33
+model_03.txt 1.619063e-36
+model_01.txt 1.213493e-39
+model_02.txt 4.095532e-40
+model_03.txt 2.784076e-36
+model_03.txt 1.037344e-32
+model_04.txt 2.664232e-40
+model_01.txt 7.366797e-34
+model_04.txt 8.955861e-38
+model_04.txt 8.761950e-42
+model_03.txt 5.610922e-35
+model_04.txt 9.966582e-40
+model_01.txt 7.129972e-34
+model_05.txt 5.827676e-42
+model_04.txt 1.063143e-43
+model_02.txt 6.486934e-41
+model_03.txt 6.108439e-31
+model_03.txt 4.333475e-37
+model_01.txt 1.036197e-35
+model_04.txt 3.109998e-43
+model_04.txt 2.462824e-37
+model_01.txt 1.982762e-33
+model_05.txt 2.974313e-41
+model_03.txt 4.130159e-37
+model_03.txt 2.633900e-38
+model_04.txt 6.770545e-40
+model_01.txt 3.297145e-34
+model_04.txt 2.310682e-42
+model_02.txt 2.325796e-39
+model_03.txt 2.059323e-33
+model_04.txt 1.583370e-42
+model_02.txt 1.342834e-39
+model_02.txt 2.826086e-40
+model_01.txt 1.887037e-35
+model_04.txt 7.529165e-45
+model_02.txt 4.360512e-44
+model_03.txt 2.918631e-33
+model_04.txt 3.126388e-38
+model_03.txt 3.235854e-35
+model_02.txt 2.104359e-42
+model_01.txt 7.109097e-35
+model_03.txt 1.888997e-37
+model_01.txt 7.125602e-34
+model_04.txt 4.512297e-38
+model_04.txt 5.027889e-39
+model_03.txt 1.217000e-37
+model_03.txt 2.126644e-36
+model_02.txt 4.682414e-40
+model_04.txt 2.684815e-36
+model_02.txt 1.846442e-42
+model_03.txt 1.457559e-35
+model_03.txt 3.201681e-41
+model_05.txt 1.023109e-41
+model_02.txt 7.005390e-42
+model_03.txt 6.283992e-38
+model_02.txt 1.960309e-39
+model_02.txt 4.571861e-42
+model_01.txt 2.099483e-31
+model_03.txt 5.519115e-38
+model_02.txt 2.928969e-42
+model_05.txt 5.290570e-43
+model_03.txt 1.294722e-34
+model_04.txt 7.329348e-39
+model_03.txt 4.322786e-33
+model_04.txt 1.132560e-41
+model_02.txt 2.997201e-40
+model_03.txt 2.606109e-34
+model_04.txt 3.680259e-42
+model_03.txt 4.027817e-33
+model_04.txt 6.350629e-41
+model_04.txt 2.420503e-40
+model_02.txt 1.217801e-37
+model_03.txt 4.576037e-34
+model_03.txt 3.856560e-36
+model_05.txt 2.566212e-41
+model_04.txt 1.703147e-41
+model_05.txt 1.717556e-40
+model_03.txt 3.530294e-34
+model_03.txt 4.650420e-41
+model_04.txt 1.357842e-39
+model_03.txt 9.054327e-34
+model_02.txt 1.467060e-38
+model_03.txt 5.941993e-37
+model_03.txt 2.436638e-36
+model_03.txt 1.499733e-39
+model_04.txt 2.099310e-41
+model_04.txt 1.814046e-43
+model_04.txt 4.988163e-42
+model_05.txt 3.060722e-40
+model_03.txt 5.875439e-35
+model_04.txt 2.803152e-38
+model_01.txt 2.377624e-34
+model_03.txt 7.723782e-37
+model_04.txt 4.199758e-42
+model_02.txt 1.818645e-41
+model_02.txt 2.663192e-39
+model_03.txt 2.762111e-36
+model_05.txt 9.551620e-42
+model_04.txt 4.595580e-40
+model_01.txt 4.245139e-33
+model_01.txt 1.711951e-34
+model_01.txt 1.439486e-32
+model_03.txt 6.716289e-36
+model_03.txt 4.758823e-36
+model_01.txt 8.274472e-34
+model_01.txt 5.119668e-33
+model_03.txt 4.357018e-40
+model_03.txt 1.768266e-39
+model_02.txt 2.894198e-41
+model_02.txt 1.540617e-39
+model_03.txt 4.113200e-38
+model_05.txt 1.189041e-40
+model_05.txt 8.154759e-40
+model_05.txt 5.909447e-44
+model_02.txt 2.412039e-40
+model_04.txt 2.025448e-42
+model_02.txt 7.408095e-42
+model_04.txt 2.661022e-42
+model_01.txt 3.387957e-37
+model_01.txt 8.628731e-36
+model_03.txt 5.968633e-36
+model_02.txt 5.877574e-42
+model_04.txt 1.376254e-39
+model_04.txt 1.740734e-41
+model_02.txt 2.479072e-44
+model_05.txt 3.415881e-43
+model_03.txt 2.632697e-35
+model_01.txt 1.998379e-32
+model_04.txt 2.427050e-41
+model_04.txt 3.085998e-42
+model_04.txt 3.151328e-39
+model_03.txt 1.932281e-40
+model_03.txt 2.558354e-36
+model_04.txt 4.165135e-39
+model_03.txt 4.652652e-37
+model_04.txt 7.749878e-39
+model_04.txt 1.050311e-38
+model_04.txt 3.724316e-40
+model_02.txt 3.203114e-40
+model_02.txt 4.155264e-41
+model_04.txt 1.636501e-41
+model_02.txt 1.879501e-39
+model_01.txt 2.269815e-33
+model_01.txt 2.838131e-34
+model_03.txt 1.642416e-36
+model_01.txt 1.839121e-31
+model_04.txt 2.286044e-42
+model_03.txt 2.499652e-38
+model_01.txt 3.975287e-34
+model_05.txt 1.663597e-41
+model_02.txt 5.983147e-39
+model_01.txt 1.857144e-33
+model_05.txt 1.495036e-39
+model_05.txt 4.999456e-40
+model_04.txt 5.461191e-39
+model_05.txt 1.833091e-46
+model_02.txt 2.364493e-40
+model_04.txt 1.905617e-40
+model_03.txt 1.635879e-36
+model_04.txt 1.341791e-41
+model_01.txt 9.826136e-37
+model_03.txt 4.841550e-36
+model_04.txt 2.605317e-42
+model_02.txt 3.162491e-40
+model_03.txt 9.291033e-42
+model_02.txt 4.755955e-40
+model_02.txt 1.543037e-38
+model_03.txt 2.071673e-37
+model_03.txt 7.705488e-35
+model_02.txt 1.306689e-40
+model_01.txt 1.094479e-35
+model_02.txt 1.443669e-39
+model_01.txt 1.297377e-33
+model_05.txt 1.699721e-43
+model_02.txt 1.452954e-40
+model_02.txt 2.408790e-39
+model_03.txt 4.487504e-36
+model_04.txt 1.651142e-41
+model_02.txt 5.652865e-42
+model_01.txt 7.316910e-30
+model_04.txt 1.407908e-39
+model_04.txt 2.054175e-43
+model_02.txt 8.714846e-39
+model_02.txt 1.315909e-42
+model_04.txt 1.636335e-39
+model_02.txt 2.454496e-40
+model_05.txt 6.789299e-41
+model_03.txt 1.115067e-32
+model_04.txt 4.440445e-43
+model_02.txt 1.601336e-42
+model_02.txt 1.339626e-39
+model_01.txt 2.349405e-38
+model_05.txt 3.663751e-43
+model_03.txt 1.935915e-34
+model_05.txt 1.644756e-41
+model_05.txt 1.515912e-37
+model_03.txt 2.227134e-32
+model_01.txt 5.714831e-33
+model_05.txt 2.287894e-42
+model_03.txt 4.303758e-33
+model_02.txt 2.418374e-40
+model_04.txt 1.085646e-40
+model_04.txt 2.678346e-42
+model_03.txt 5.804451e-32
+model_02.txt 2.100300e-42
+model_03.txt 5.974474e-38
+model_02.txt 1.033230e-39
+model_04.txt 7.648886e-43
+model_05.txt 2.669489e-44
+model_01.txt 4.052132e-39
+model_04.txt 5.291663e-39
+model_01.txt 9.340410e-38
+model_03.txt 1.319312e-34
+model_01.txt 2.785426e-33
+model_05.txt 1.599575e-40
+model_03.txt 5.996151e-33
+model_05.txt 4.698587e-40
+model_04.txt 1.849233e-42
+model_03.txt 1.797838e-37
+model_02.txt 3.492968e-40
+model_05.txt 8.876960e-44
+model_04.txt 8.300299e-41
+model_04.txt 2.131949e-42
+model_04.txt 2.296457e-42
+model_04.txt 8.845416e-40
+model_02.txt 1.526814e-40
+model_05.txt 1.899066e-41
+model_03.txt 2.420126e-33
+model_03.txt 1.934215e-35
+model_03.txt 2.165473e-37
+model_04.txt 1.155254e-40
+model_05.txt 5.860168e-40
+model_03.txt 1.386296e-36
+model_05.txt 2.325099e-40
+model_03.txt 1.664993e-34
+model_01.txt 2.769634e-32
+model_04.txt 2.706743e-41
+model_01.txt 2.033211e-35
+model_02.txt 1.922356e-39
+model_02.txt 1.408055e-39
+model_03.txt 1.188560e-36
+model_01.txt 3.967843e-32
+model_02.txt 1.727748e-42
+model_03.txt 1.368063e-33
+model_02.txt 1.867652e-40
+model_03.txt 5.406628e-39
+model_02.txt 3.809219e-40
+model_02.txt 1.880962e-40
+model_04.txt 3.415299e-40
+model_01.txt 1.719945e-33
+model_03.txt 1.085420e-38
+model_04.txt 4.282804e-41
+model_04.txt 1.061350e-38
+model_03.txt 3.767004e-36
+model_01.txt 1.572290e-38
+model_04.txt 8.679062e-40
+model_05.txt 1.835702e-40
+model_02.txt 3.307852e-40
+model_01.txt 7.020001e-32
+model_01.txt 1.130232e-35
+model_02.txt 8.201581e-42
+model_01.txt 1.944235e-36
+model_02.txt 2.393592e-41
+model_03.txt 8.488943e-32
+model_02.txt 1.518896e-40
+model_01.txt 9.323269e-33
+model_01.txt 1.199163e-36
+model_04.txt 3.460409e-41
+model_03.txt 6.437431e-40
+model_04.txt 3.946188e-42
+model_05.txt 5.355089e-39
+model_01.txt 2.258584e-33
+model_04.txt 7.882577e-40
+model_04.txt 4.170618e-40
+model_02.txt 3.225726e-40
+model_04.txt 3.166025e-39
+model_02.txt 2.172565e-40
+model_03.txt 6.805907e-35
+model_04.txt 1.372741e-39
+model_05.txt 2.047301e-42
+model_05.txt 2.684957e-39
+model_04.txt 1.731419e-39
+model_01.txt 4.830194e-36
+model_01.txt 2.781906e-38
+model_05.txt 1.993051e-40
+model_02.txt 4.617188e-38
+model_05.txt 9.485607e-41
+model_02.txt 3.700589e-40
+model_01.txt 5.126915e-31
+model_03.txt 5.658255e-36
+model_04.txt 3.919890e-38
+model_01.txt 2.126484e-33
+model_03.txt 6.239264e-41
+model_04.txt 9.106639e-41
+model_04.txt 3.211044e-43
+model_04.txt 1.421660e-42
+model_04.txt 1.299834e-40
+model_02.txt 6.049638e-39
+model_02.txt 1.653491e-42
+model_04.txt 2.576976e-43
+model_01.txt 2.757548e-39
+model_03.txt 2.303989e-37
+model_02.txt 5.605102e-41
+model_04.txt 3.384479e-40
+model_05.txt 2.218147e-42
+model_02.txt 8.122751e-40
+model_01.txt 1.543123e-33
+model_02.txt 3.619913e-42
+model_01.txt 2.100527e-33
+model_03.txt 2.721302e-36
+model_04.txt 1.708552e-39
+model_05.txt 2.222115e-39
+model_03.txt 1.798014e-37
+model_04.txt 3.039620e-42
+model_03.txt 2.903980e-37
+model_03.txt 9.875207e-37
+model_03.txt 1.543525e-36
+model_02.txt 1.666888e-40
+model_03.txt 2.432821e-36
+model_01.txt 1.017526e-34
+model_02.txt 2.410671e-41
+model_01.txt 1.300066e-31
+model_05.txt 3.965659e-43
+model_02.txt 3.829152e-40
+model_05.txt 2.368000e-39
+model_02.txt 5.728775e-43
+model_03.txt 1.873601e-35
+model_03.txt 5.606371e-38
+model_02.txt 1.868395e-40
+model_03.txt 2.292351e-34
+model_04.txt 4.205129e-42
+model_02.txt 6.568010e-39
+model_01.txt 3.746082e-35
+model_04.txt 1.131160e-37
+model_04.txt 3.381647e-39
+model_01.txt 4.357434e-37
+model_01.txt 7.374568e-37
+model_01.txt 3.398232e-36
+model_04.txt 1.454927e-40
+model_04.txt 1.440660e-40
+model_04.txt 8.500411e-41
+model_04.txt 7.868639e-41
+model_05.txt 3.408436e-41
+model_04.txt 1.830409e-39
+model_04.txt 5.232142e-42
+model_01.txt 5.923978e-34
+model_05.txt 6.944427e-41
+model_05.txt 2.094084e-39
+model_02.txt 1.103325e-42
+model_05.txt 4.899609e-42
+model_03.txt 1.848881e-33
+model_04.txt 1.538168e-39
+model_02.txt 7.865642e-40
+model_02.txt 4.015418e-40
+model_02.txt 4.899565e-42
+model_01.txt 4.299055e-34
+model_02.txt 4.310937e-40
+model_05.txt 3.126177e-41
+model_01.txt 1.361394e-37
+model_04.txt 1.640426e-40
+model_01.txt 3.074886e-33
+model_02.txt 8.370083e-40
+model_04.txt 3.721738e-39
+model_04.txt 1.298139e-39
+model_04.txt 7.016823e-41
+model_03.txt 1.243722e-39
+model_02.txt 2.638321e-43
+model_03.txt 1.211066e-37
+model_01.txt 1.015073e-39
+model_03.txt 1.871813e-33
+model_04.txt 2.128468e-41
+model_03.txt 2.045540e-36
+model_04.txt 7.362569e-40
+model_03.txt 1.389461e-36
+model_04.txt 1.698921e-42
+model_05.txt 2.480379e-43
+model_03.txt 3.065874e-34
+model_02.txt 9.573262e-43
+model_01.txt 2.673694e-34
+model_01.txt 7.236117e-33
+model_05.txt 1.453954e-40
+model_05.txt 4.995861e-43
+model_05.txt 2.771181e-42
+model_02.txt 3.269942e-41
+model_01.txt 5.979513e-36
+model_04.txt 2.610612e-41
+model_03.txt 4.584256e-36
+model_01.txt 2.614029e-38
+model_03.txt 1.466013e-39
+model_01.txt 1.029349e-33
+model_05.txt 6.142290e-39
+model_02.txt 1.084277e-43
+model_01.txt 7.355525e-35
+model_05.txt 4.558531e-39
+model_01.txt 5.820322e-37
+model_04.txt 1.621323e-41
+model_03.txt 3.344022e-34
+model_02.txt 4.283236e-39
+model_03.txt 6.839960e-36
+model_04.txt 3.324318e-40
+model_03.txt 1.242276e-35
+model_05.txt 9.105579e-41
+model_02.txt 3.108734e-41
+model_03.txt 5.979565e-40
+model_01.txt 6.572867e-34
+model_01.txt 5.606840e-37
+model_05.txt 2.964205e-42
+model_03.txt 6.842833e-36
+model_04.txt 6.222807e-41
+model_03.txt 3.823274e-36
+model_05.txt 1.643811e-38
+model_01.txt 1.909932e-32
+model_04.txt 6.673029e-40
+model_05.txt 1.521984e-37
+model_02.txt 1.470709e-37
+model_05.txt 5.886436e-40
+model_01.txt 3.098203e-36
+model_04.txt 5.689530e-40
+model_02.txt 7.439170e-42
+model_04.txt 5.271686e-41
+model_04.txt 2.446179e-39
+model_02.txt 3.095528e-41
+model_02.txt 4.963163e-40
+model_05.txt 5.646630e-40
+model_05.txt 4.635309e-40
+model_03.txt 1.270295e-39
+model_01.txt 6.421626e-41
+model_02.txt 1.705738e-42
+model_02.txt 2.278036e-39
+model_05.txt 3.084714e-41
+model_04.txt 6.947200e-41
+model_04.txt 6.273911e-41
+model_03.txt 2.327038e-35
+model_01.txt 4.788198e-35
+model_05.txt 7.537191e-41
+model_03.txt 4.706317e-32
+model_04.txt 4.592478e-42
+model_04.txt 1.140001e-40
+model_01.txt 1.180031e-35
+model_05.txt 7.314341e-41
+model_04.txt 9.945269e-41
+model_05.txt 4.033194e-45
+model_05.txt 8.990176e-40
+model_05.txt 4.031961e-41
+model_05.txt 2.569897e-41
+model_03.txt 7.662069e-38
+model_03.txt 2.698242e-34
+model_01.txt 1.057985e-37
+model_01.txt 2.206205e-33
+model_03.txt 6.139935e-35
+model_02.txt 1.786731e-40
+model_03.txt 1.426648e-31
+model_05.txt 5.891516e-41
+model_03.txt 7.456382e-34
+model_05.txt 2.928777e-42
+model_04.txt 5.048666e-41
+model_03.txt 4.530349e-38
+model_03.txt 3.271838e-34
+model_01.txt 1.912667e-37
+model_04.txt 1.254344e-40
+model_05.txt 1.000239e-40
+model_04.txt 9.505787e-42
+model_03.txt 2.632736e-38
+model_04.txt 1.039381e-40
+model_03.txt 7.747451e-35
+model_03.txt 3.272434e-36
+model_01.txt 1.729941e-33
+model_01.txt 5.542323e-34
+model_05.txt 4.929511e-42
+model_02.txt 3.908722e-40
+model_02.txt 4.411265e-42
+model_04.txt 2.293533e-39
+model_03.txt 2.577544e-38
+model_03.txt 5.223379e-34
+model_05.txt 1.527635e-41
+model_01.txt 1.738786e-30
+model_02.txt 3.640428e-40
+model_05.txt 7.893819e-37
